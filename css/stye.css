@@ -8,9 +8,10 @@ body{
 }
 
 h1{
-                    font-size:40px;
+                    font-size:35px;
                     text-align: center;
                     padding-top:20px;
+                    color:#383837;
 }
 .container_div{
                     background-color:#D0D0D0;
@@ -32,9 +33,10 @@ h1{
                     transition-duration:3s; 
 }
 .container_div:hover .container_div-1{
-    width:1370px ;
+    width:100%;
     background-color:#D0D0D0;
-    transition-duration:3s;               
+    transition-duration:3s; 
+                
 }
 
 
