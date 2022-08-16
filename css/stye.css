@@ -31,6 +31,7 @@ h1{
                     position:absolute;
                     background-color:#C3C3C3;
                     transition-duration:3s; 
+                    pointer-events: none;
 }
 .container_div:hover .container_div-1{
     width:100%;
